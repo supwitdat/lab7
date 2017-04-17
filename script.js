@@ -1,4 +1,3 @@
-var answer;
 
 function convert(temp, type) {
 
